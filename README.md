@@ -1,5 +1,5 @@
-# time-series-work
+# Time-series analysis
 
-# Decription of work 
+**Status: project placeholder.** This repository does not currently contain an application, trained model, or runnable demonstration.
 
-This project do time serie analysis
+Implementation and reproducible setup instructions can be added when development begins.
